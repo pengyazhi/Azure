@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rjXGJeYf9MsalN4CYRGPvRcJhrVd2TZzlrE/68kJNUizlQLdDzyRwr3WJJmTvPTACqijHDjRtX+9X/wkN0Ze7w==",
+  "dgSpecHash": "pyHlqIqPOLrfDUsMtqW3rzueEysjuJR0YPf2mamU3ZWt9NOPamXQnaZSUraIABFHXDKWMP9vJMHEqYDdMMR/yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\35411\\Source\\Repos\\pengyazhi\\Azure\\AzureDemo.csproj",
+  "projectFilePath": "C:\\Users\\35411\\source\\repos\\pengyazhi\\Azure\\AzureDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\35411\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\35411\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

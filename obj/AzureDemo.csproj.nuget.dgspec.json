@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\35411\\Source\\Repos\\pengyazhi\\Azure\\AzureDemo.csproj": {}
+    "C:\\Users\\35411\\source\\repos\\pengyazhi\\Azure\\AzureDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\35411\\Source\\Repos\\pengyazhi\\Azure\\AzureDemo.csproj": {
+    "C:\\Users\\35411\\source\\repos\\pengyazhi\\Azure\\AzureDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\35411\\Source\\Repos\\pengyazhi\\Azure\\AzureDemo.csproj",
+        "projectUniqueName": "C:\\Users\\35411\\source\\repos\\pengyazhi\\Azure\\AzureDemo.csproj",
         "projectName": "AzureDemo",
-        "projectPath": "C:\\Users\\35411\\Source\\Repos\\pengyazhi\\Azure\\AzureDemo.csproj",
+        "projectPath": "C:\\Users\\35411\\source\\repos\\pengyazhi\\Azure\\AzureDemo.csproj",
         "packagesPath": "C:\\Users\\35411\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\35411\\Source\\Repos\\pengyazhi\\Azure\\obj\\",
+        "outputPath": "C:\\Users\\35411\\source\\repos\\pengyazhi\\Azure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
